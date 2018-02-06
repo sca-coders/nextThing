@@ -1,1 +1,5 @@
 # nextThing
+
+meteor
+
+npm test
